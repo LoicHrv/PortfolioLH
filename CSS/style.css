@@ -1055,3 +1055,7 @@ bleu : #0099DD gris antarticque : #A1C7E0*/
 .fondu-out{
 	display: none;
 }
+
+@font-face {
+        src: url('LeagueSpartan-VariableFont_wght.ttf') format('truetype');
+    }
