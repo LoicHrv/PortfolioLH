@@ -8,6 +8,11 @@ orange pale :#FF9933
 gris antarticque : #A1C7E0
 
 */
+li{
+	list-style-type: none;
+		
+}
+
 h1.Headline{
 	text-align: center;
 	color : #FF9933;
