@@ -593,6 +593,7 @@ inverser text-align*/
 
 
 .gallery{
+	list-style-type: none;
 	max-width: 1000px;
 	margin: 0 auto;
 	display: flex;
@@ -614,6 +615,7 @@ inverser text-align*/
 
 
 .gallery_i img{
+	list-style-type: none;
 	object-fit: contain;
 	width: 100%;
 	height: 100%;
